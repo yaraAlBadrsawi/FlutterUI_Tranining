@@ -1,0 +1,30 @@
+{
+
+    "version": "0.2.0",
+    "configurations":
+[
+    {
+        "name": "Flutter",
+        "request": "launch",
+        "type": "dart",
+        "program": "C:\\Users\\WELCOME\\Desktop\\flutter_examples"
+    },
+        {
+            "name": "flutter_examples",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "flutter_examples (profile mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "flutter_examples (release mode)",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
